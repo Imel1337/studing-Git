@@ -1,0 +1,1 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"><instrumentation android:name="ru.lab.ritm.SmokeTests" android:targetPackage="ru.lab.ritm" android:label="Ritm checks"/></manifest>
